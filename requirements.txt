@@ -8,5 +8,5 @@ matplotlib>=3.3.2
 torchsummary>=1.5.1
 piq>=0.5.1
 prefetch_generator>=1.0.1
-tensorboard>==2.3.0
+tensorboard>=2.3.0
 pytorch_msssim>=0.2.1
