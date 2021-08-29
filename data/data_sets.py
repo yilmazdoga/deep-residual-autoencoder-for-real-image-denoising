@@ -8,7 +8,6 @@ from itertools import cycle
 from torch.utils.data import Dataset
 from PIL import Image
 from tqdm import tqdm
-from torchvision.transforms import functional as tf
 from torchvision import transforms
 
 

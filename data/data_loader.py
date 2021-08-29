@@ -1,4 +1,3 @@
-import torch
 from data import data_sets
 from data import transforms as _transforms
 from torchvision import transforms
