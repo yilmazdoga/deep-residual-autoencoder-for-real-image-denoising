@@ -110,3 +110,4 @@ venv.bak/
 data/prepared_data/*.pt
 datasets/SIDD_Dataset/SIDD_Medium_sRGB/Data
 datasets/SIDD_Dataset/SIDD_Validation/*.mat
+datasets/SIDD_Dataset/Sample_Images/**
