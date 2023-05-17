@@ -81,4 +81,4 @@ python3 test.py --YOUR_MODEL_OPTIONS
 ```
 
 ## Contribute
-Please feel free to open an issue or to send an e-mail to ```yilmaz.doga.11481@ozu.edu.tr```
+Please feel free to open an issue or to send an e-mail to ```doga.yilmaz.11481@ozu.edu.tr```
