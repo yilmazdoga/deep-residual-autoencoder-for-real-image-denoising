@@ -1,6 +1,6 @@
 ## Deep Residual Autoencoder for Real Image Denoising
  
-Details about the project and demo images can be found at [project website](https://yilmazdoga.com/deep_rae_image_denoising.html).
+Details about the project and demo images can be found at [project website](https://yilmazdoga.net/deep_rae_image_denoising.html).
 
 ![](./readme_assets/denoising_before_after.gif)
 
